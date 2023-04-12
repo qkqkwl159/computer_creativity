@@ -24,7 +24,7 @@ int main(void){
 
 	issue1();
 	issue2();
-	printf("i1\n");
+	printf("i2\n");
 
 	return 0;
 
