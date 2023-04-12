@@ -2,7 +2,7 @@
 
 int main(void){
 
-	printf("I'm A\n");
+	printf("I'm B\n");
 
 return 0;
 }
