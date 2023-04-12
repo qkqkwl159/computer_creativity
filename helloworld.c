@@ -15,6 +15,7 @@ void issue2(){
 
 	printf("issue 2 \n");
 	printf("issue 2 APP add\n");
+	printf("confilct!\n");
 
 	return;
 }
@@ -25,6 +26,7 @@ int main(void){
 
 	issue1();
 	issue2();
+	printf("i1\n");
 	printf("i2\n");
 
 	return 0;
