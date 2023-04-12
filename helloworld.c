@@ -14,6 +14,7 @@ void issue2(){
 
 
 	printf("issue 2 \n");
+	printf("issue 2 APP add\n");
 
 	return;
 }
